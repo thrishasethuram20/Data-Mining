@@ -3,8 +3,12 @@ the code has bee run using Python 2.7
 The flask app has been situated in the app.py file which is in CovidXrayPrediction_FlaskApp
 
 
-Dataset has to be extracted from Dataset.rar file
-Train and test folders also has images which has to be unzipped before executing the code
+Dataset has to be downloaded from
+https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
+
+test images are already in folder named test that has been uploaded to the repository
+train images to be kept in train folder and all the images are kept in it.
+another folder named Dataset has to have 3 sub directories named covid, viral and normal.
 
 
 
