@@ -1,4 +1,4 @@
-Create an environment with aall the requirements satisfied
+Create an environment with all the requirements satisfied
 the code has bee run using Python 2.7
 The flask app has been situated in the app.py file which is in CovidXrayPrediction_FlaskApp
 
